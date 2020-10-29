@@ -1,5 +1,5 @@
 # twitterbot
-a simple bot written in google script which tweets strings from a google sheet. you can find it here [@womeninscienc11](https://twitter.com/womeninscienc11)
+a simple bot written in google script which tweets random strings from a google sheet. you can find it here [@womeninscienc11](https://twitter.com/womeninscienc11)
 
 the google sheet I'm using for the bot contains a list of women scientists, scraped from Wikipedia.
 
